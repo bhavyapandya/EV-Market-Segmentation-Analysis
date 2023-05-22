@@ -1,4 +1,5 @@
-# FENN-LABS-EV
+## EV-Market-Segmentation-Analysis
+
 
 ![CarPlug](https://github.com/Ashwani8525/FENN-LABS-EV/assets/112153786/c7aae547-a8c2-4451-9331-a23d8e87897b)
 
@@ -12,7 +13,8 @@
 
 The purpose of this project is to perform clustering on EV market data of our wish and help an EV startup find the best possible market segment it may enter. We used EV datasets related to geography, EV specs and EV customer details to gain insights into the EV market.
 
-# LIBARIES USED 
+# LIBRARIES USED
+
 Pandas
 
 NUMPY
@@ -25,7 +27,7 @@ SKLEARN
 
 SPICY
 
-# DATA DISCRIPTION
+# DATA DESCRIPTION
 
 Our analysis involved gathering information from both Kaggle, a popular data science community platform, and web scraping techniques. The data we focused on pertained to the number of electric vehicles (EVs) in each state, the availability of EV charging points, and the various electric car brands currently present in the market.
 
